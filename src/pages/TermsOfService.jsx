@@ -8,7 +8,7 @@ export default function TermsOfService() {
       <div className="pt-32 pb-16 px-4 md:px-8">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-4xl font-bold mb-2 gradient-text">Terms of Service</h1>
-          <p className="text-gray-600 mb-8">Last Updated: May 2026</p>
+          <p className="text-gray-600 mb-8">Last Updated: Oct 2026</p>
 
           <div className="space-y-8 text-gray-700 leading-relaxed">
             
@@ -140,6 +140,7 @@ export default function TermsOfService() {
                     <li>Refund requests must be submitted within 30 days of transaction</li>
                     <li>Refunds are processed to the original payment method within 5-7 business days</li>
                     <li>We reserve the right to refuse refunds for transactions initiated by unauthorized users</li>
+                    <li><strong>VTU Failed Transactions:</strong> Failed VTU transactions (airtime, data, utilities) are automatically refunded within 24 hours. Network downtime by telecom providers is not our liability, but users will receive credits as compensation.</li>
                   </ul>
                 </div>
 

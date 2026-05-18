@@ -8,7 +8,7 @@ export default function CookiePolicy() {
       <div className="pt-32 pb-16 px-4 md:px-8">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-4xl font-bold mb-2 gradient-text">Cookie Policy</h1>
-          <p className="text-gray-600 mb-8">Last Updated: May 2026</p>
+          <p className="text-gray-600 mb-8">Last Updated: Oct 2026</p>
 
           <div className="space-y-8 text-gray-700 leading-relaxed">
             
