@@ -18,9 +18,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 md:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center gap-2">
-              <div className="w-10 h-10 bg-gradient-to-br from-primary-600 to-secondary-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-xl">P</span>
-              </div>
+              <img src="/logo.png" alt="Prosperous TechPro" className="h-10 w-auto" />
               <span className="text-xl font-bold gradient-text hidden sm:block">Prosperous TechPro</span>
             </div>
 
@@ -261,7 +259,7 @@ export default function App() {
               <div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-4">Connect With Us</h3>
                 <a
-                  href="https://wa.me/233xxxxxxxxxx"
+                  href="https://wa.me/233248699146"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 bg-green-500 text-white px-6 py-3 rounded-lg hover:bg-green-600 transition-colors font-semibold"
@@ -334,9 +332,7 @@ export default function App() {
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div>
               <div className="flex items-center gap-2 mb-4">
-                <div className="w-10 h-10 bg-gradient-to-br from-primary-600 to-secondary-600 rounded-lg flex items-center justify-center">
-                  <span className="text-white font-bold text-xl">P</span>
-                </div>
+                <img src="/logo.png" alt="Prosperous TechPro" className="h-10 w-auto" />
                 <span className="text-white font-bold">Prosperous TechPro</span>
               </div>
               <p className="text-sm">Your trusted VTU and digital solutions partner in Ghana.</p>
